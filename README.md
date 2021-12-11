@@ -1,2 +1,2 @@
-# AWT-assignment
-A simple Student Data entry and retrival system For Advanced Web technology Assignment
+# Advanced Web Technologies Assignment
+A simple data entry, updation and retrival system
